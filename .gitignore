@@ -1,0 +1,15 @@
+# Build outputs
+build/
+out/
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+
+# VS Code
+.vscode/
+
+# OS cache
+.DS_Store
+Thumbs.db
